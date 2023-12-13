@@ -11,7 +11,7 @@ st.markdown(
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: seashell;
+    
     height: 90vh; /* Makes sure the content takes the full height of the viewport */
         }
 .my-button{
