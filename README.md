@@ -17,4 +17,4 @@ The dataset used for training and testing is sourced from the California housing
 
 ## Deployment
 The model was saved using .pkl file and web application was created using Streamlit library and it was deployed to Streamlit Sharing to get the estimated price of the house.
-You can access the web application [here] (https://sai-ranganadh-streamlit-web-app-ayddzx.streamlit.app/)
+You can access the web application [here](https://sai-ranganadh-streamlit-web-app-ayddzx.streamlit.app/)
